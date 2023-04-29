@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1 align="center"> Data_Mining_and_Analysis_CW1</h1>
-<center align="center"><img src="https://www.clipartmax.com/png/small/273-2738888_join-london-fire-brigade-london-fire-brigade-logo.png"></center>
+<div style="text-align: center;"><img src="https://www.clipartmax.com/png/small/273-2738888_join-london-fire-brigade-london-fire-brigade-logo.png"></div>
 <h2>Coursework Specification</h2>
 <h3>Coursework Aim:</h3>
 <p>This team-based assignment involves analysing a real-world dataset and creating
